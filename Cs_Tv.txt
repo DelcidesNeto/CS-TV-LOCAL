@@ -1,0 +1,10 @@
+Vencimento: 08/10/2023 01:44:11
+Nome do Cliente: Julio
+Login / Usuário: ini766
+Senha / Password: 915
+
+DADOS DO SERVIDOR:
+CLARO TV HD
+Url / IP: csbrasilia1.duckdns.org
+Porta: 32005
+Chave DES: 01 02 03 04 05 06 07 08 09 10 11 12 13 14
